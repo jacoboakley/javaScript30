@@ -27,3 +27,6 @@ These are meant to be 1:1 copies of what is done in the video. If you found a be
 The starter files + solutions will be updated if/when the videos are updated. 
 
 Thanks!
+# javaScript30
+# javaScript30
+# javaScript30
